@@ -14,7 +14,8 @@
 - [data base ibge](https://gist.githubusercontent.com/tgcsantos/85f8c7b0a2edbc3e27fcad619b37d886/raw/a4954781e6bca9cb804062a3eea0b3b84679daf4/Basico_SP1.csv)
 - [data base enderecos](https://drive.google.com/file/d/1u2qPFtYaE4of3Vb3d7yQEVEbS5FdQ_FP/view)
 - [data base dados_geo](https://drive.google.com/file/d/1KyaCnwYt3vVV_7O0VktZorRhsMWD9hQQ/view)
-- [data base dados_venda](https://drive.google.com/file/d/1iAFJhgMUquxsbGxM1pWz9BLjpC9SULKr/view)
+- [data base dados_vendas](https://drive.google.com/file/d/1iAFJhgMUquxsbGxM1pWz9BLjpC9SULKr/view)
+- [data base dados_vendas_censo](https://drive.google.com/file/d/1iAFJhgMUquxsbGxM1pWz9BLjpC9SULKr/view)
 - [census sectors files](https://drive.google.com/drive/folders/1CycoanzYN2oxKHPO6zxvIQ6Og1LBcujv)
 #### docs
 - [pandas doc](https://pandas.pydata.org/)
